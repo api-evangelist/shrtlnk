@@ -1,0 +1,32 @@
+aid: shrtlnk
+name: Shrtlnk
+description: "Simple and efficient short link creation"
+url: https://shrtlnk.dev/developer
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Shrtlnk
+    description: "Simple and efficient short link creation"
+    humanURL: https://shrtlnk.dev/developer
+    baseURL: https://shrtlnk.dev/developer
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://shrtlnk.dev/developer
+common:
+  - type: Website
+    url: https://shrtlnk.dev/developer
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

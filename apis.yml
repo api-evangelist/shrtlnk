@@ -39,7 +39,6 @@ apis:
   - name: Shrtlnk
     description: "Simple and efficient short link creation"
     humanURL: https://shrtlnk.dev/developer
-    baseURL: https://shrtlnk.dev/developer
     tags:
       - URL Shorteners
     properties:
